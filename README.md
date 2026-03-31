@@ -81,7 +81,7 @@ exec(open(r"шлях/до/SkyMapper_P90_v5.py", encoding="utf-8").read())
 - **Motor + Propeller** — штовхаючий двигун з пропелером
 - **Camera_Bay + Camera** — ніша під камеру Sony RX1R II
 - **GPS** — GPS-антена (зверху)
-- **Altimeter** — радарний висотомір (знизу)
+- **Altimeter** — лідарний висотомір (знизу)
 
 ---
 
